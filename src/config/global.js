@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Generalidades de la carne',
+    Description:
+      'La producción y consumo de carne son actividades fundamentales para la alimentación y la economía. Este componente formativo permite reconocer las características químicas y sensoriales de la carne, así como los agentes que afectan su calidad. Además, promueve la aplicación de normatividad y buenas prácticas, garantizando alimentos inocuos, seguros y aptos para el consumo humano.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +36,49 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo:
+          'Objeto de la producción: ganado bovino, porcino, ovino-caprino y aves',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto de objeto de la producción',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Importancia de identificar la materia prima',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Clasificación de la producción animal',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Producción por especie',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Mapa mental de la producción animal',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Relación con las buenas prácticas de manipulación (BPM)',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Enfoque de inocuidad',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo: 'Cuadro comparativo de especies',
+            hash: 't_1_8',
           },
         ],
       },
@@ -45,14 +86,253 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Transformación del músculo a carne',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Cambios principales en la transformación',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Etapas del proceso post-mortem',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Factores que influyen en la transformación',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Impacto en la calidad de la carne',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Aplicación en buenas prácticas de manipulación (BPM)',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Relación con el resultado de aprendizaje',
+            hash: 't_2_6',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Composición química de la carne',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Agua',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Proteínas',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Grasa (lípidos)',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Hidratos de carbono',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Vitaminas',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Minerales',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Composición según la especie',
+            hash: 't_3_7',
+          },
+          {
+            numero: '3.8',
+            titulo: 'Relación con la calidad de la carne',
+            hash: 't_3_8',
+          },
+          {
+            numero: '3.9',
+            titulo: 'Relación con BPM e inocuidad',
+            hash: 't_3_9',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo:
+          'Desarrollo de las características sensoriales durante la cocción de la carne	',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Características sensoriales  ',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo:
+              'Factores que modifican el aroma de la carne textura de la carne',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Factores en el desarrollo del aroma de la carne',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Importancia del pH en la calidad del aroma',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Propiedades organolépticas de la carne',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Textura de la carne y su relación con la manipulación (BPM)',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Componentes estructurales de la textura',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Dureza y terneza',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Manejo post mortem y conservación',
+            hash: 't_5_4',
+          },
+          {
+            numero: '5.5',
+            titulo:
+              'Relación de la textura con las Buenas Prácticas de Manipulación (BPM)',
+            hash: 't_5_5',
+          },
+          {
+            numero: '5.6',
+            titulo: 'Impacto de la manipulación inadecuada',
+            hash: 't_5_6',
+          },
+          {
+            numero: '5.7',
+            titulo: 'Principios de BPM aplicados a la textura',
+            hash: 't_5_7',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Alteración de la carne',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Agentes que alteran la carne',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Microorganismos alterantes según tipo de carne',
+            hash: 't_6_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Residuos en carne',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Residuos productos farmacológicos',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Anabolizantes o promotores del crecimiento',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Nitrosaminas',
+            hash: 't_7_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Alternación y contaminación de la carne',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Principales fuentes tóxicas',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: 'Agentes biológicos',
+            hash: 't_8_2',
+          },
+          {
+            numero: '8.3',
+            titulo: 'Microorganismos alterantes en las carnes frescas',
+            hash: 't_8_3',
+          },
+          {
+            numero: '8.4',
+            titulo:
+              'Microorganismos en las carnes empacadas al vacío o en atmósferas modificadas',
+            hash: 't_8_4',
+          },
+          {
+            numero: '8.5',
+            titulo: 'Microorganismos en las carnes congeladas',
+            hash: 't_8_5',
+          },
+          {
+            numero: '8.6',
+            titulo: 'Microorganismos alterantes de carnes curadas',
+            hash: 't_8_6',
+          },
+          {
+            numero: '8.7',
+            titulo: 'Alteración de las carnes secas',
+            hash: 't_8_7',
+          },
+        ],
       },
     ],
     subMenu: [

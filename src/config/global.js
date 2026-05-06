@@ -390,14 +390,118 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Actividad de agua (aw)',
+      significado:
+        'Cantidad de agua disponible en un alimento que permite el crecimiento de microorganismos y afecta su conservación.',
+    },
+    {
+      termino: 'Agentes biológicos',
+      significado:
+        'Organismos como bacterias, virus, hongos o parásitos que pueden contaminar y deteriorar la carne.',
+    },
+    {
+      termino: 'Agentes químicos',
+      significado:
+        'Sustancias como medicamentos, plaguicidas o aditivos que pueden contaminar la carne y afectar la salud.',
+    },
+    {
+      termino: 'Agentes físicos',
+      significado:
+        'Factores como temperatura, luz o radiación que alteran las características de la carne.',
+    },
+    {
+      termino: 'Anabolizantes',
+      significado:
+        'Sustancias que estimulan el crecimiento muscular en animales y pueden generar riesgos para la salud.',
+    },
+    {
+      termino: 'Cadena de frío',
+      significado:
+        'Sistema de control de temperatura que se mantiene desde la producción hasta el consumo para preservar la calidad.',
+    },
+    {
+      termino: 'Carne',
+      significado:
+        'Tejido muscular de animales aptos para consumo humano que adquiere características específicas tras el sacrificio.',
+    },
+    {
+      termino: 'Contaminación',
+      significado:
+        'Presencia de agentes físicos, químicos o biológicos que afectan la inocuidad de los alimentos.',
+    },
+    {
+      termino: 'Contaminación biológica',
+      significado:
+        'Presencia de microorganismos patógenos que pueden causar enfermedades o deterioro del alimento.',
+    },
+    {
+      termino: 'Glucólisis anaeróbica',
+      significado:
+        'Proceso bioquímico en el cual el glucógeno se transforma en ácido láctico en ausencia de oxígeno.',
+    },
+    {
+      termino: 'Inocuidad alimentaria',
+      significado:
+        'Condición que garantiza que un alimento no causará daño al consumidor bajo su uso adecuado.',
+    },
+    {
+      termino: 'Microorganismos psicrófilos',
+      significado:
+        'Microorganismos que crecen a bajas temperaturas y deterioran la carne durante la refrigeración.',
+    },
+    {
+      termino: 'Nitrosaminas',
+      significado:
+        'Compuestos químicos potencialmente cancerígenos formados por la reacción entre aminas y nitritos.',
+    },
+    {
+      termino: 'Nitrosomioglobina',
+      significado:
+        'Pigmento responsable del color rosado en carnes curadas generado por la interacción con nitritos.',
+    },
+    {
+      termino: 'Rigor mortis',
+      significado:
+        'Estado de rigidez muscular posterior a la muerte por agotamiento de energía en el músculo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'FAO/OMS Codex Alimentarius Commission. (2023). Código de prácticas de higiene para la carne (CAC/RCP 58-2005, actualizado).',
+      link: 'https://www.fao.org/4/j1870s/j1870s00.htm',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2007). Decreto 1500 de 2007: Por el cual se establece el reglamento técnico para el sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos comestibles.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38923',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: Por la cual se establecen los requisitos para la certificación en Buenas Prácticas Ganaderas (BPG) en la producción de bovinos de carne y leche.',
+      link: 'https://www.ica.gov.co',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA). (2024). Carne y productos cárnicos: inspección, vigilancia y control.',
+      link: 'https://www.invima.gov.co/productos-vigilados/alimentos/carne',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA). (2024). Guía de transporte y trazabilidad de carne y productos cárnicos.',
+      link:
+        'https://www.invima.gov.co/biblioteca/guia-transporte-destino-carne-productos-carnicos-resolucion-2019055962-99551',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2023). Food safety and animal health.',
+      link: 'https://www.fao.org/animal-health/areas-of-work/food-safety/en/',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud (OMS). (2023). Food safety guidelines.',
+      link: 'https://www.emro.who.int/health-topics/food-safety/',
     },
   ],
   creditos: [

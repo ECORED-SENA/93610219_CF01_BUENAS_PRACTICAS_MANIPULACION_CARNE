@@ -83,7 +83,7 @@
                     td.texto-left Ternura o dureza
         Separador
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 4.2 Factores que modifican el aroma de la carne textura de la carne
+          h2 4.2 Factores que modifican el aroma de la carne
     p.mb-5 El aroma de la carne está influenciado por diversos factores que actúan desde la producción hasta la cocción. Entre ellos se destacan los siguientes factores y principales mecanismos de formación del aroma:
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Factores")
@@ -179,27 +179,27 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Especie: define el perfil aromático según su composición. 
+                | #[b Especie:] define el perfil aromático según su composición. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Edad: animales adultos generan sabores más intensos; los jóvenes, más suaves. 
+                | #[b Edad:] animales adultos generan sabores más intensos; los jóvenes, más suaves. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Genética: influye en el marmoleo, afectando la formación de compuestos aromáticos. 
+                | #[b Genética:] influye en el marmoleo, afectando la formación de compuestos aromáticos. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Alimentación: modifica el aroma, si el pastoreo es intenso, el concentrado es suave. 
+                | #[b Alimentación:] modifica el aroma; si el pastoreo es intenso, el concentrado es suave. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Composición química: proteínas y lípidos influyen en la generación del aroma. 
+                | #[b Composición química:] proteínas y lípidos influyen en la generación del aroma. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | pH de la carne: regula las reacciones químicas. El pH normal favorece el aroma.
+                | #[b pH de la carne:] regula las reacciones químicas. El pH normal favorece el aroma.
       .py-3.py-md-4(titulo="Factores extrínsecos")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1

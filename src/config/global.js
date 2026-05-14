@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Generalidades de la carne',
     Description:
-      'La producción y consumo de carne son actividades fundamentales para la alimentación y la economía. Este componente formativo permite reconocer las características químicas y sensoriales de la carne, así como los agentes que afectan su calidad. Además, promueve la aplicación de normatividad y buenas prácticas, garantizando alimentos inocuos, seguros y aptos para el consumo humano.',
+      'La producción y el consumo de carne son actividades fundamentales para la alimentación y la economía. Este componente formativo permite reconocer las características químicas y sensoriales de la carne, así como los agentes que afectan su calidad. Además, promueve la aplicación de normatividad y buenas prácticas, garantizando alimentos inocuos, seguros y aptos para el consumo humano.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -96,7 +96,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Etapas del proceso post-mortem',
+            titulo: 'Etapas del proceso post-mortem (visión didáctica)',
             hash: 't_2_2',
           },
           {
@@ -111,7 +111,7 @@ export default {
           },
           {
             numero: '2.5',
-            titulo: 'Aplicación en buenas prácticas de manipulación (BPM)',
+            titulo: 'Aplicación de buenas prácticas de manipulación (BPM)',
             hash: 't_2_5',
           },
           {
@@ -188,8 +188,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo:
-              'Factores que modifican el aroma de la carne textura de la carne',
+            titulo: 'Factores que modifican el aroma de la carne',
             hash: 't_4_2',
           },
           {
@@ -234,7 +233,7 @@ export default {
           {
             numero: '5.5',
             titulo:
-              'Relación de la textura con las Buenas Prácticas de Manipulación (BPM)',
+              'Relación de la textura con las buenas prácticas de manipulación (BPM)',
             hash: 't_5_5',
           },
           {
@@ -293,7 +292,7 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: 'Alternación y contaminación de la carne',
+        titulo: 'Alteración y contaminación de la carne',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -352,11 +351,6 @@ export default {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -479,7 +473,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: Por la cual se establecen los requisitos para la certificación en Buenas Prácticas Ganaderas (BPG) en la producción de bovinos de carne y leche.',
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020: Por la cual se establecen los requisitos para la certificación en buenas prácticas ganaderas (BPG) en la producción de bovinos de carne y leche.',
       link: 'https://www.ica.gov.co',
     },
     {

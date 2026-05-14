@@ -24,7 +24,7 @@
     Separador
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.2 Anabolizantes o promotores del crecimiento
-    p.mb-5 Son sustancias que favorecen la síntesis proteica y aumentan el crecimiento entre 5% y 20%. Las principales son:
+    p.mb-5 Son sustancias que favorecen la síntesis proteica y aumentan el crecimiento entre 5 % y 20 %. Las principales son:
     .row.justify-content-center.mb-0
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         .caja-tema1-1.h-100

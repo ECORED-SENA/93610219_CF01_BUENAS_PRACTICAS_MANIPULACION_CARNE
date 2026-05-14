@@ -10,7 +10,7 @@
       .col-xl.mb-4.mb-lg-0
         .row.align-items-center.mb-3
           .col-xl
-            p.mb-0 La alteración de la carne son cambios indeseables que afectan su calidad e inocuidad, evidenciados por malos olores, cambios de color, textura viscosa o presencia de gases. Estas son generalidades sobre las causas de la alternación de la carne.
+            p.mb-0 La alteración de la carne son cambios indeseables que afectan su calidad e inocuidad, evidenciados por malos olores, cambios de color, textura viscosa o presencia de gases. Estas son generalidades sobre las causas de la alteración de la carne.
           .col-xl-auto.d-none.d-xl-block(data-aos="zoom-in")
             figure
               img(src='@/assets/curso/intro/img2.svg', alt='').m-auto
@@ -49,7 +49,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Agentes físicos
-                p.mb-0 La luz solar o artificial modifica el aspecto externo de la carne como el color y puede desnaturalizar nutrientes. Las radiaciones alteran la composición química. La temperatura inadecuada favorece la descomposición.
+                p.mb-0 La luz solar o artificial modifica el aspecto externo de la carne, como el color, y puede desnaturalizar nutrientes. Las radiaciones alteran la composición química. La temperatura inadecuada favorece la descomposición.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img74.png', alt='' style="max-width: 500px").m-auto
@@ -73,7 +73,7 @@
           .row(titulo="Carnes frescas").ajuste-cajaAcordion
             p.mb-3 Las carnes de res, cerdo y cordero se alteran de forma similar, siendo susceptibles a contaminación durante el sacrificio. Los principales microorganismos provienen de la piel, intestinos y ambiente. En refrigeración predominan bacterias psicrófilas, generando olores, viscosidad y deterioro. La carne molida presenta mayor riesgo de contaminación.
           .row(titulo="Carnes empacadas al vacío o atmósferas modificadas").ajuste-cajaAcordion
-            p.mb-3 En estas condiciones predominan lactobacilos y Brochothrix thermosphacta, generando olores ácidos, sulfurosos o pútridos. Puede presentarse coloración verde por formación de sulfohemoglobina. Además, ambientes con dióxido de carbono favorecen bacterias lácticas y prolongan la vida útil de la carne.
+            p.mb-3 En estas condiciones predominan lactobacilos y <i>Brochothrix thermosphacta</i>, generando olores ácidos, sulfurosos o pútridos. Puede presentarse coloración verde por formación de sulfohemoglobina. Además, ambientes con dióxido de carbono favorecen bacterias lácticas y prolongan la vida útil de la carne.
           .row(titulo="Carnes congeladas").ajuste-cajaAcordion
             p.mb-3 La congelación reduce la actividad de los microorganismos, pero no los elimina completamente, ya que algunos patógenos como Salmonella y E. coli pueden resistir. Además, a temperaturas cercanas a -10 °C pueden desarrollarse hongos que provocan manchas en la carne.
           .row(titulo="Carnes curadas").ajuste-cajaAcordion

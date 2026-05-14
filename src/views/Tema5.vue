@@ -49,7 +49,7 @@
               figure.mb-4
                 img(src='@/assets/curso/temas/img61.jpg', alt="" ).m-auto
             h4.text-center Estado del rigor mortis
-            p.mb-0.text-center La rigidez inicial post sacrificio influye en la textura final. 
+            p.mb-0.text-center La rigidez inicial postsacrificio influye en la textura final. 
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.3 Dureza y terneza
@@ -117,13 +117,13 @@
           img(src='@/assets/curso/temas/img62.png', alt="" ).m-auto
     Separador
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.5 Relación de la textura con las Buenas Prácticas de Manipulación (BPM)
+      h2 5.5 Relación de la textura con las buenas prácticas de manipulación (BPM)
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img63.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las Buenas Prácticas de Manipulación influyen en la textura de la carne, ya que garantizan adecuada conservación, procesamiento e higiene, preservando terneza, jugosidad y calidad del producto.
+        p.mb-0 Las buenas prácticas de manipulación influyen en la textura de la carne, ya que garantizan adecuada conservación, procesamiento e higiene, preservando terneza, jugosidad y calidad del producto.
     .caja-tema5.mb-5(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
@@ -131,7 +131,7 @@
             img(src='@/assets/curso/temas/img64.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Control de calidad de productos cárnicos 
-          p.mb-0 Como complemento a este tema, se recomienda revisar el video “Control de calidad de productos cárnicos”, en el que se abordan procesos, características sensoriales y factores que influyen en la inocuidad y calidad final de la carne, incluyendo las Buenas Prácticas de Manipulación. 
+          p.mb-0 Como complemento a este tema, se recomienda revisar el video “Control de calidad de productos cárnicos”, en el que se abordan procesos, características sensoriales y factores que influyen en la inocuidad y calidad final de la carne, incluyendo las buenas prácticas de manipulación. 
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=PGCERL12K2E ')" target="_blank" type="website")
             span Abrir video
@@ -142,7 +142,7 @@
       h2 5.6 Impacto de la manipulación inadecuada
     .bg-1
       .px-5
-        p.mb-5 La manipulación inadecuada de la carne afecta su calidad, inocuidad y textura, favoreciendo contaminación, el deterioro acelerado y la pérdida de propiedades sensoriales. A continuación, se presenta su impacto. 
+        p.mb-5 La manipulación inadecuada de la carne afecta su calidad, inocuidad y textura, favoreciendo la contaminación, el deterioro acelerado y la pérdida de propiedades sensoriales. A continuación, se presenta su impacto. 
         .row.justify-content-center.mb-0
           .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .caja-tema5-1.h-100

@@ -80,7 +80,7 @@
       .px-5
         Separador
         #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.2 Etapas del proceso post-mortem
+          h2 2.2 Etapas del proceso post-mortem (visión didáctica)
         .row.justify-content-center.align-items-center
           .col-xl.mb-4.mb-lg-0
             p Las etapas del proceso son:
@@ -138,7 +138,7 @@
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Impacto en la calidad de la carne
-    p.mb-5 Los cambios post-mortem determinan características clave y alternaciones comunes, tales como:
+    p.mb-5 Los cambios post-mortem determinan características clave y alteraciones comunes, tales como:
     .row.align-items-center.mb-0
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -177,7 +177,7 @@
                 | #[b Carne DFD (Oscura, Firme y Seca)]: Bajo glucógeno → pH alto → carne oscura y menos conservable.
     Separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.5 Aplicación en buenas prácticas de manipulación (BPM)
+      h2 2.5 Aplicación de buenas prácticas de manipulación (BPM)
     .row.justify-content-center.align-items-center
       .col-xl.mb-4.mb-lg-0
         .caja-intro.ajuste-caja-intro(data-aos="flip-up")

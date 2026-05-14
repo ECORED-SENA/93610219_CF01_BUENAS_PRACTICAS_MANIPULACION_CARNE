@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 8
-      h1 Alternación y contaminación de la carne
+      h1 Alteración y contaminación de la carne
     p.mb-5 La alteración y contaminación de la carne afectan su calidad e inocuidad, debido a microorganismos, manejo inadecuado y condiciones ambientales que favorecen su deterioro.
     .bg-1
       .px-5
@@ -46,7 +46,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/img83.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La contaminación biológica es causada por las toxinas de patógenos como hongos, bacterias, virus y parásitos, estos microorganismos pueden descomponer la carne y causar enfermedades al ser humano.
+            p.mb-0 La contaminación biológica es causada por las toxinas de patógenos como hongos, bacterias, virus y parásitos; estos microorganismos pueden descomponer la carne y causar enfermedades al ser humano.
     Separador
     #t_8_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.3 Microorganismos alterantes en las carnes frescas
@@ -64,15 +64,15 @@
     Separador
     #t_8_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.4 Microorganismos en las carnes empacadas al vacío o en atmósferas modificadas
-    p.mb-5 Los microorganismos en carnes empacadas al vacío o en atmósferas modificadas dependen del ambiente, influyendo en su conservación, calidad e inocuidad durante el almacenamiento. A continuacion, se presentarán dos aspectos fundamentales.
+    p.mb-5 Los microorganismos en carnes empacadas al vacío o en atmósferas modificadas dependen del ambiente, influyendo en su conservación, calidad e inocuidad durante el almacenamiento. A continuación, se presentarán dos aspectos fundamentales.
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
-      .py-3.py-md-4(titulo="Microorganismos y alteracion en carne al vacío")
+      .py-3.py-md-4(titulo="Microorganismos y alteración en carne al vacío")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/img84.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Microorganismos y alteracion en carne al vacío
+            h4.txt--purpura.mb-4 Microorganismos y alteración en carne al vacío
             p.mb-0 En carnes empacadas al vacío y refrigeradas predominan lactobacilos y #[i Brochothrix thermosphacta], especialmente en pH cercano a 6. En pH altos se generan olores sulfurosos y pútridos, y puede presentarse coloración verdosa por sulfohemoglobina.
       .py-3.py-md-4(titulo="Efecto CO₂ y condiciones anaeróbicas")
         .row.justify-content-center.align-items-center
@@ -88,7 +88,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-xl.mb-4.mb-lg-0
         .caja-intro(data-aos="fade-right")
-          p.mb-0 La congelación disminuye el número de microorganismos presentes en la carne. Como las bacterias gramnegativas, los microorganismos como campyrobacter y C perfrigensson son sensibles al frío, pero algunos agentes patógenos son resistentes, como el caso de la salmonella y el Ecoli. A temperaturas de congelación de -10°C o menor, la carne se puede alterar por hongos los cuales causan manchas negras.
+          p.mb-0 La congelación disminuye el número de microorganismos presentes en la carne. Como las bacterias gramnegativas, los microorganismos como <i>campyrobacter</i> y <i>Clostridium perfringens</i> son sensibles al frío, pero algunos agentes patógenos son resistentes, como el caso de la <i>salmonella</i> y el <i>Ecoli</i>. A temperaturas de congelación de -10°C o menor, la carne se puede alterar por hongos los cuales causan manchas negras.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/img86.png', alt='').m-auto

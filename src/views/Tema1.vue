@@ -79,19 +79,19 @@
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/temas/img10.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Porcinos (Carne rosada)
+                h4.mb-3.estilo-text Porcinos (carne rosada)
                 p.mb-0.text-center Carne de cerdo, color rosado con equilibrio entre grasa y proteína.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/temas/img10.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Ovinos – Caprinos (Carne roja - especializada)
+                h4.mb-3.estilo-text Ovinos – Caprinos (carne roja - especializada)
                 p.mb-0.text-center Carne de ovejas y cabras, de color rojo y sabor intenso.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/temas/img10.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Aves (Carne blanca)
+                h4.mb-3.estilo-text Aves (carne blanca)
                 p.mb-0.text-center Carne de aves, color claro, baja en grasa y fácil digestión.
         p.mb-0 Cada tipo de ganado presenta características propias que influyen en la calidad de la carne, su manejo y los riesgos sanitarios asociados.
         Separador

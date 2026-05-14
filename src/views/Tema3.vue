@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/img33.png', alt='').m-auto
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Agua
-    p.mb-5 Como punto de partida se conocerá la importancia del agua en la carne, luego la relación agua – proteína y finalmente las formas del agua en la carne.
+    p.mb-5 Como punto de partida, se conocerá la importancia del agua en la carne, luego la relación agua – proteína y finalmente las formas del agua en la carne.
     .row.align-items-center.mb-0
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -169,7 +169,7 @@
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Hidratos de carbono
-    p.mb-5 Dentro de este marco se profundizará los carbohidratos de la carne y la transformación del glucógeno y su importancia.
+    p.mb-5 Dentro de este marco se profundizará en los carbohidratos de la carne y la transformación del glucógeno y su importancia.
     .tarjeta--container.row.justify-content-center.text-white.mb-0.m-0(data-aos="zoom-in")
       .col-xl-6.col-md-10.tarjeta.color-acento-contenido.p-5.mb-4.mb-lg-0
         .row.d-flex.align-items-end.mb-4

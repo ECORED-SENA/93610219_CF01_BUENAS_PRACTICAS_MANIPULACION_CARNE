@@ -185,7 +185,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="De la producción a la inocuidad: claves en la manipulación de la carne"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/inocuidad.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block

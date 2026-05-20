@@ -142,7 +142,7 @@
       h2 5.6 Impacto de la manipulación inadecuada
     .bg-1
       .px-5
-        p.mb-5 La manipulación inadecuada de la carne afecta su calidad, inocuidad y textura, favoreciendo la contaminación, el deterioro acelerado y la pérdida de propiedades sensoriales. A continuación, se presenta su impacto. 
+        p.mb-5 La manipulación inadecuada de la carne afecta su calidad, inocuidad y textura, favoreciendo  la contaminación, el deterioro acelerado y la pérdida de propiedades sensoriales. A continuación, se presenta su impacto. 
         .row.justify-content-center.mb-0
           .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .caja-tema5-1.h-100
@@ -151,7 +151,7 @@
                   figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img65.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Ruptura de la cadena de frío
-                p.mb-0.text-center Favorece proliferación microbiana y deterioro de la estructura muscular.
+                p.mb-0.text-center Favorece la proliferación microbiana y el deterioro de la estructura muscular.
           .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .caja-tema5-1.h-100
               .row.justify-content-center.mb-3

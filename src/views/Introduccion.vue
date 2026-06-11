@@ -26,7 +26,7 @@
           figure
             img(src='@/assets/curso/intro/img3.png', alt='').m-auto
         .col-xl
-          p.mb-0 Asimismo, se enfatiza en la importancia de aplicar las Buenas Prácticas de Manipulación (BPM) y la normatividad vigente, con el fin de garantizar alimentos seguros, de calidad y aptos para el consumo humano. De esta manera, el aprendiz desarrollará competencias que le permitirán identificar riesgos, prevenir la contaminación y contribuir al manejo adecuado de productos cárnicos dentro del sector productivo.
+          p.mb-0 Asimismo, se enfatiza la importancia de aplicar las Buenas Prácticas de Manipulación (BPM) y la normatividad vigente, con el fin de garantizar alimentos seguros, de calidad y aptos para el consumo humano. De esta manera, el aprendiz desarrollará competencias que le permitirán identificar riesgos, prevenir la contaminación y contribuir al manejo adecuado de productos cárnicos dentro del sector productivo.
 
 </template>
 

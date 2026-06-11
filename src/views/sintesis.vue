@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt=" La imagen presenta un esquema conceptual de la calidad de la carne, integrando factores productivos, composición, transformación, conservación y alteración, junto con aspectos microbiológicos, químicos y de inocuidad que influyen en sus características y seguridad para el consumo.")
+          img(src="@/assets/curso/sintesis.svg", alt="La imagen presenta un esquema conceptual de la calidad de la carne, integrando factores productivos, composición, transformación, conservación y alteración, junto con aspectos microbiológicos, químicos y de inocuidad que influyen en sus características y seguridad para el consumo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

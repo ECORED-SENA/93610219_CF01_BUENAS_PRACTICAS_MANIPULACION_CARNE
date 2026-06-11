@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/img33.png', alt='').m-auto
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Agua
-    p.mb-5 Como punto de partida, se conocerá la importancia del agua en la carne, luego la relación agua – proteína y finalmente las formas del agua en la carne.
+    p.mb-5 Como punto de partida, se conocerá la importancia del agua en la carne, luego la relación agua-proteína y, finalmente, las formas del agua en la carne.
     .row.align-items-center.mb-0
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -24,7 +24,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
           .row(titulo="Importancia del agua en la carne").ajuste-cajaAcordion
             p.mb-3 El agua es el componente predominante de la carne y cumple un papel fundamental en su estructura y funcionalidad. Gracias a su naturaleza polar, interactúa con proteínas y sales, facilitando diversos procesos bioquímicos esenciales.
-          .row(titulo="Relación agua–proteína").ajuste-cajaAcordion
+          .row(titulo="Relación agua-proteína").ajuste-cajaAcordion
             p.mb-3 Existe una relación directa entre el contenido de agua y las proteínas, con una proporción aproximada de 3,6:1. Esto significa que cualquier cambio en las proteínas influye directamente en la cantidad de agua presente en el músculo.
           .row(titulo="Formas del agua en la carne").ajuste-cajaAcordion
             ul.fa-ul.mb-0
@@ -98,7 +98,7 @@
           h2 3.3 Grasa (lípidos)
         .row.justify-content-center.align-items-center.mb-5
           .col-xl.mb-4.mb-lg-0
-            p La carne está compuesta aproximadamente por 75% de agua, 19% de proteínas y entre 2% y 5% de lípidos, además de pequeñas cantidades de otros nutrientes. Estos componentes determinan su textura, color, jugosidad y vida útil, así como su comportamiento durante procesos de conservación y transformación.
+            p La carne está compuesta aproximadamente por 75 % de agua, 19 % de proteínas y entre 2 % y 5 % de lípidos, además de pequeñas cantidades de otros nutrientes. Estos componentes determinan su textura, color, jugosidad y vida útil, así como su comportamiento durante procesos de conservación y transformación.
             .caja-intro.mb-3(data-aos="fade-right")
               .row.align-items-center
                 .col-xl-auto.d-none.d-xl-block(data-aos="zoom-in")
@@ -135,7 +135,7 @@
                     td.ajuste-border-tabla.texto-left Poliinsaturados
                     td.ajuste-border-tabla.texto-left Linoleico, linolénico
                     td.texto-left Esenciales
-        p.mb-5 Mediante la siguiente tabla, se realizará análisis comparativo por especie.
+        p.mb-5 Mediante la siguiente tabla, se realizará un análisis comparativo por especie.
         .row.justify-content-center.mb-0
           .col-xl-10
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -204,7 +204,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img43.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La carne aporta minerales esenciales como hierro, fósforo, potasio y magnesio. El hierro hemo destaca por su alta biodisponibilidad, facilitando su absorción y ayudando a prevenir la anemia. En conjunto, los minerales representan menos del 2% del peso de la carne.
+        p.mb-0 La carne aporta minerales esenciales como hierro, fósforo, potasio y magnesio. El hierro hemo destaca por su alta biodisponibilidad, facilitando su absorción y ayudando a prevenir la anemia. En conjunto, los minerales representan menos del 2 % del peso de la carne.
     Separador
     #t_3_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.7 Composición según la especie

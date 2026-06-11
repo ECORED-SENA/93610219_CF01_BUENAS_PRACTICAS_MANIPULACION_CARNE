@@ -92,12 +92,12 @@
                   .col-8
                     img(src='@/assets/curso/temas/img10.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Aves (carne blanca)
-                p.mb-0.text-center Carne de aves, color claro, baja en grasa y fácil digestión.
+                p.mb-0.text-center Carne de aves, color claro, baja en grasa y de fácil digestión.
         p.mb-0 Cada tipo de ganado presenta características propias que influyen en la calidad de la carne, su manejo y los riesgos sanitarios asociados.
         Separador
         #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.4 Producción por especie
-    p.mb-5 La producción por especie analiza las características, manejo y condiciones de cada tipo de ganado, permitiendo comprender sus diferencias y su impacto en la calidad de la carne. Acto seguido, se procederá a analizar los tipos de producción.
+    p.mb-5 La producción por especie analiza las características, manejo y condiciones de cada tipo de ganado, permitiendo comprender sus diferencias y su impacto en la calidad de la carne. Acto seguido, se analizará los tipos de producción.
     .bg-slider.mb-0
       .px-5
         .ajuste-slider(data-aos="zoom-in")
@@ -135,7 +135,7 @@
       h2 1.5 Mapa mental de la producción animal
     .bg-1
       .px-5
-        p.mb-5 La producción de carne se organiza a partir de diferentes especies animales, cada una con características propias en cuanto al tipo de carne, sistema de alimentación y manejo productivo. En la siguiente tabla, se conocerá como se relacionan cada una de estas.
+        p.mb-5 La producción de carne se organiza a partir de diferentes especies animales, cada una con características propias en cuanto al tipo de carne, sistema de alimentación y manejo productivo. En la siguiente tabla, se conocerá cómo se relacionan cada una de estas.
         .row.justify-content-center.mb-5
           .col-xl-10
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")

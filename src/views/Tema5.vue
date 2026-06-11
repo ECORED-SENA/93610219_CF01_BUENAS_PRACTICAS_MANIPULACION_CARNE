@@ -49,7 +49,7 @@
               figure.mb-4
                 img(src='@/assets/curso/temas/img61.jpg', alt="" ).m-auto
             h4.text-center Estado del rigor mortis
-            p.mb-0.text-center La rigidez inicial postsacrificio influye en la textura final. 
+            p.mb-0.text-center La rigidez inicial post sacrificio influye en la textura final. 
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.3 Dureza y terneza
@@ -103,15 +103,15 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | #[b Refrigeración controlada]: Evita el acortamiento por frío. 
+              | #[b Refrigeración controlada]: evita el acortamiento por frío. 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | #[b Congelación]: Si es inadecuada, daña la estructura muscular. 
+              | #[b Congelación]: si es inadecuada, daña la estructura muscular. 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | #[b Maduración]: Recomendada entre 5 y 10 días, de 0 °C a 4 °C, mejora la terneza. 
+              | #[b Maduración]: recomendada entre 5 y 10 días, de 0 °C a 4 °C, mejora la terneza. 
       .col-xl-auto.col-md-9(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/img62.png', alt="" ).m-auto

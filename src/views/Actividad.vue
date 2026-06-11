@@ -21,7 +21,7 @@ export default {
         'Evaluación de conocimientos sobre calidad e inocuidad en la carne.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales relacionados con la producción, transformación, composición, características sensoriales y factores de alteración de la carne, promoviendo la aplicación de las Buenas Prácticas de Manipulación para garantizar su inocuidad y calidad.',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales relacionados con la producción, transformación, composición, características sensoriales y factores de alteración de la carne, promoviendo la aplicación de las Buenas Prácticas de Manipulación para garantizar su inocuidad y calidad.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

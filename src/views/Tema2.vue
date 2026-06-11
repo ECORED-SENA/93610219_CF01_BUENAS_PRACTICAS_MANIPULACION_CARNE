@@ -80,7 +80,7 @@
       .px-5
         Separador
         #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.2 Etapas del proceso post-mortem (visión didáctica)
+          h2 2.2 Etapas del proceso #[i post mortem] (visión didáctica)
         .row.justify-content-center.align-items-center
           .col-xl.mb-4.mb-lg-0
             p Las etapas del proceso son:
@@ -89,12 +89,12 @@
                 .lista-ol--cuadro__vineta
                   span 1
                 | 
-                p.mb-0 #[b Fase inicial (pre-rigor)]: El músculo aún es flexible, con pH alto. 
+                p.mb-0 #[b Fase inicial (prerigor)]: El músculo aún es flexible, con pH alto. 
               li 
                 .lista-ol--cuadro__vineta
                   span 2
                 | 
-                p.mb-0 #[b Rigor mortis]: Se presenta rigidez máxima por falta de energía. 
+                p.mb-0 #[b #[i Rigor mortis]]: Se presenta rigidez máxima por falta de energía. 
               li 
                 .lista-ol--cuadro__vineta
                   span 3
@@ -138,7 +138,7 @@
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4 Impacto en la calidad de la carne
-    p.mb-5 Los cambios post-mortem determinan características clave y alteraciones comunes, tales como:
+    p.mb-5 Los cambios #[i post mortem] determinan características clave y alteraciones comunes, tales como:
     .row.align-items-center.mb-0
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block

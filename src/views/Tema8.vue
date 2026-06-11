@@ -88,7 +88,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-xl.mb-4.mb-lg-0
         .caja-intro(data-aos="fade-right")
-          p.mb-0 La congelación disminuye el número de microorganismos presentes en la carne. Como las bacterias gramnegativas, los microorganismos como <i>Campyrobacter</i> y <i>Clostridium perfringens</i> son sensibles al frío, pero algunos agentes patógenos son resistentes, como el caso de la <i>Salmonella</i> y el <i>E.coli</i>. A temperaturas de congelación de -10°C o menor, la carne se puede alterar por hongos los cuales causan manchas negras.
+          p.mb-0 La congelación disminuye el número de microorganismos presentes en la carne. Como las bacterias gramnegativas, los microorganismos como <i>Campyrobacter</i> y <i>Clostridium perfringens</i> son sensibles al frío, pero algunos agentes patógenos son resistentes, como el caso de la <i>Salmonella</i> y el <i>E.coli</i>. A temperaturas de congelación de -10 °C o menores, la carne se puede alterar por hongos, los cuales causan manchas negras.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/img86.png', alt='').m-auto

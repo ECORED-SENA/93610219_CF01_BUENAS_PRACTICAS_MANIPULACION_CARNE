@@ -15,7 +15,7 @@
             figure
               img(src='@/assets/curso/intro/img2.svg', alt='').m-auto
         .caja-intro(data-aos="fade-right")
-          p #[b Causas de la ateración de la carne]
+          p #[b Causas de la alteración de la carne]
           .row.align-items-center.mb-3
             .col-xl-auto.d-none.d-xl-block(data-aos="zoom-in")
               figure
